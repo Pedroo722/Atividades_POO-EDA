@@ -1,0 +1,1 @@
+Atividade extra para disciplina de Programação Orientada a Objetos, envolvendo o desenvolvimento de Interfaces Gráficas com o Swing.
